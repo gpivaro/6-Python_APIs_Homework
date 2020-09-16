@@ -8,7 +8,7 @@ This repository contains the following scenario:
 
 ## Part I - WeatherPy
 
-In this example, we'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, we'll be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api).
+In this [notebook](WeatherPy/WeatherPy.ipynb), we'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, we'll be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api).
 
 The notebook presents a series of scatter plots to showcase the following relationships:
 
@@ -37,7 +37,7 @@ The final notebook has the following features:
 
 ### Part II - VacationPy
 
-The skills used to working with weather data will be useful to plan future vacations. Use jupyter-gmaps and the Google Places API for this part of the assignment.
+In this [notebook](VacationPy/VacationPy.ipynb), the skills used to working with weather data will be useful to plan future vacations. Use jupyter-gmaps and the Google Places API for this part of the assignment.
 
 * **Note:** Remember that any API usage beyond the $200 credit will be charged to your personal account. You can set quotas and limits to your daily requests to be sure you can't be charged. Check out [Google Maps Platform Billing](https://developers.google.com/maps/billing/gmp-billing#monitor-and-restrict-consumption) and [Manage your cost of use](https://developers.google.com/maps/documentation/javascript/usage-and-billing#set-caps) for more information.
 
