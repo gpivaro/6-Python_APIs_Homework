@@ -12,23 +12,23 @@ In this [notebook](WeatherPy/WeatherPy.ipynb), we'll be creating a Python script
 
 The notebook presents a series of scatter plots to showcase the following relationships:
 
-* Temperature (F) vs. Latitude
-* Humidity (%) vs. Latitude
-* Cloudiness (%) vs. Latitude
-* Wind Speed (mph) vs. Latitude
+* [Temperature (F) vs. Latitude](/WeatherPy/data/Fig_1_Lat_vs_Temp.png)
+* [Humidity (%) vs. Latitude](/WeatherPy/data/Fig_2_Lat_vs_Hum.png)
+* [Cloudiness (%) vs. Latitude](/WeatherPy/data/Fig_3_Lat_vs_Cloudiness.png)
+* [Wind Speed (mph) vs. Latitude](/WeatherPy/data/Fig_4_Lat_vs_Wind.png)
 
 The notebook also presents the linear regression on each relationship separated by Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
-* Northern Hemisphere - Temperature (F) vs. Latitude
-* Southern Hemisphere - Temperature (F) vs. Latitude
-* Northern Hemisphere - Humidity (%) vs. Latitude
-* Southern Hemisphere - Humidity (%) vs. Latitude
-* Northern Hemisphere - Cloudiness (%) vs. Latitude
-* Southern Hemisphere - Cloudiness (%) vs. Latitude
-* Northern Hemisphere - Wind Speed (mph) vs. Latitude
-* Southern Hemisphere - Wind Speed (mph) vs. Latitude
+* [Northern Hemisphere - Temperature (F) vs. Latitude](/WeatherPy/data/Fig_5_N_Latitude_Max_Temperature.png)
+* [Southern Hemisphere - Temperature (F) vs. Latitude](/WeatherPy/data/Fig_6_S_Latitude_Max_Temperature.png)
+* [Northern Hemisphere - Humidity (%) vs. Latitude](/WeatherPy/data/Fig_7_N_Latitude_Humidity.png)
+* [Southern Hemisphere - Humidity (%) vs. Latitude](/WeatherPy/data/Fig_8_S_Latitude_Humidity.png)
+* [Northern Hemisphere - Cloudiness (%) vs. Latitude](/WeatherPy/data/Fig_9_N_Latitude_Cloudiness.png)
+* [Southern Hemisphere - Cloudiness (%) vs. Latitude](/WeatherPy/data/Fig_10_S_Latitude_Cloudiness.png)
+* [Northern Hemisphere - Wind Speed (mph) vs. Latitude](/WeatherPy/data/Fig_11_N_Latitude_Wind_Speed.png)
+* [Southern Hemisphere - Wind Speed (mph) vs. Latitude](/WeatherPy/data/Fig_12_S_Latitude_Wind_Speed.png)
 
-The final notebook has the following features:
+The final [notebook](WeatherPy/WeatherPy.ipynb) has the following features:
 
 * Randomly select **N** unique (non-repeat) cities based on latitude and longitude.
 * Perform a weather check on each of the cities using a series of successive API calls.
