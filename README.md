@@ -45,7 +45,7 @@ In this [notebook](VacationPy/VacationPy.ipynb), the skills used to working with
 
 * Create a heat map that displays the humidity for every city from the part I of the homework.
 
-  ![heatmap](WeatherPy/data/heatmap.png)
+  ![heatmap](VacationPy/data/heatmap.png)
 
 * Narrow down the DataFrame to find your ideal weather condition. For example:
 
